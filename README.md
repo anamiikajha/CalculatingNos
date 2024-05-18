@@ -1,2 +1,3 @@
-# Calculator
+# CalculatingNos
+- Simple Calculator
  
